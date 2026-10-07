@@ -1,0 +1,11 @@
+# id|name|category|description|price|stock|rating
+101|Apple iPhone 15 Pro|Electronics|128GB Titanium smartphone with A17 Pro chip|999.00|15|4.8
+102|Sony WH-1000XM5|Electronics|Wireless noise-canceling high-res headphones|399.00|25|4.7
+103|Dell XPS 15 Laptop|Electronics|Intel Core i9, 32GB RAM, 1TB SSD, OLED display|1850.00|8|4.9
+104|Logitech MX Master 3S|Electronics|Ergonomic wireless performance mouse|99.00|40|4.6
+105|Classic Cotton T-Shirt|Clothing|Premium 100% breathable organic cotton crewneck|24.50|80|4.3
+106|Levi's 511 Slim Jeans|Clothing|Comfort stretch denim classic slim fit jeans|68.00|50|4.5
+107|The Pragmatic Programmer|Books|20th Anniversary Edition by Hunt & Thomas|45.00|30|4.9
+108|Clean Code by Uncle Bob|Books|A handbook of agile software craftsmanship|42.00|22|4.8
+109|Organic Dark Roast Coffee|Groceries|1kg Whole Arabica beans, artisanal roasted|18.50|60|4.6
+110|Stainless Steel Water Bottle|Home|1 Litre insulated double-wall flask (24h cold)|22.00|45|4.4

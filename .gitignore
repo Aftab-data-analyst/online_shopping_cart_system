@@ -1,0 +1,16 @@
+# Binaries and executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Debug symbols
+*.dSYM/
+*.pdb
+
+# Editor / OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
