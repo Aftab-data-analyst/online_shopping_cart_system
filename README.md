@@ -186,3 +186,4 @@ gcc -Wall -Wextra -std=c99 -Iinclude src/*.c -o shopping_cart
 
 ## 📜 License
 This project is open-source and released under the MIT License.
+

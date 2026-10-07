@@ -12,3 +12,4 @@ if %ERRORLEVEL% EQU 0 (
     echo.
     echo [ERROR] Build failed! Check compiler errors above.
 )
+

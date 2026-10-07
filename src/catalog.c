@@ -199,3 +199,4 @@ void listCategories(const Product products[], int count) {
         printf("  %d. %s\n", i + 1, categories[i]);
     }
 }
+

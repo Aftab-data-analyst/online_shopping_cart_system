@@ -11,3 +11,4 @@ bool updateUserProfile(User *user, User users[], int userCount);
 User* findUserById(User users[], int userCount, int userId);
 
 #endif // AUTH_H
+

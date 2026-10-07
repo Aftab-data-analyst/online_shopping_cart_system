@@ -164,3 +164,4 @@ bool updateUserProfile(User *user, User users[], int userCount) {
     pauseScreen();
     return true;
 }
+

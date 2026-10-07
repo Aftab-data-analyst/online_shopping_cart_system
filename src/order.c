@@ -317,3 +317,4 @@ bool updateOrderStatus(Order orders[], int orderCount, int orderId, OrderStatus 
     printf(COLOR_GREEN "Order #%d status updated to %s.\n" COLOR_RESET, orderId, getOrderStatusString(newStatus));
     return true;
 }
+

@@ -15,3 +15,4 @@ Product* findProductById(Product products[], int count, int productId);
 void listCategories(const Product products[], int count);
 
 #endif // CATALOG_H
+

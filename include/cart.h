@@ -14,3 +14,4 @@ bool applyCouponCode(Cart *cart, const char *code);
 void calculateTotals(const Cart *cart, double *subtotal, double *discount, double *tax, double *shipping, double *grandTotal);
 
 #endif // CART_H
+

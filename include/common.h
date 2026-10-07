@@ -29,3 +29,4 @@ void getCurrentTimestamp(char *buffer, int maxLen);
 void trimWhitespace(char *str);
 
 #endif // COMMON_H
+

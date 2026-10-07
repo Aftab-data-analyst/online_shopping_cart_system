@@ -128,3 +128,4 @@ void getCurrentTimestamp(char *buffer, int maxLen) {
         snprintf(buffer, maxLen, "Unknown Time");
     }
 }
+
